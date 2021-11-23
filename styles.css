@@ -384,8 +384,11 @@
 }
 
 .timeline-link {
-  color: rgb(2, 30, 66);
+  color: rgb(18, 133, 123);
   font-weight: bold;
+}
+
+.timeline-link:hover {
   text-decoration: none;
 }
 /* -----------------*/

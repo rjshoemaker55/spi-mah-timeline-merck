@@ -14,7 +14,7 @@ const timelineSections = [
             Rooted in Discovery from the Start
           </h4>
           <p class="timeline-popup-text">
-            MSD establishes its animal health division (Intervet Inc.) and
+            Merck establishes its animal health division (Intervet Inc.) and
             discovers sulfaquinoxaline, the first poultry coccidiostat.
           </p>
           <p class="timeline-popup-text">
@@ -38,7 +38,7 @@ const timelineSections = [
             production and a reduced growth rate in young birds.
           </p>
           <p class="timeline-popup-text">
-            Additionally, the first edition of The MSD Veterinary Manual is
+            Additionally, the first edition of The Merck Veterinary Manual is
             published, offering a comprehensive, reliable source of information
             on all aspects of animal healthcare.
           </p>
@@ -97,7 +97,7 @@ const timelineSections = [
               A Focus on Firsts: High–Quality Poultry Science Award
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health* announces a call for submissions for its first
+              Merck Animal Health* announces a call for submissions for its first
               annual High–Quality Poultry Science Award, which is granted to
               three recent veterinary or animal science graduates in support of
               research in poultry health, production and welfare.
@@ -107,7 +107,7 @@ const timelineSections = [
               A Focus on Firsts: INNOVAX<sup>®</sup>-ND-IBD and EXZOLT<sup>®</sup> Launches
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health launches INNOVAX<sup>®</sup>-ND-IBD, the first ever
+              Merck Animal Health launches INNOVAX<sup>®</sup>-ND-IBD, the first ever
               biotech-based vaccine that provides life-long protection against
               three incredibly infectious poultry diseases (infectious bursal
               disease, Newcastle disease and Marek’s disease), and EXZOLT<sup>®</sup>
@@ -116,8 +116,8 @@ const timelineSections = [
             </p>
             <p class="timeline-popup-text">
               <em
-                >*The operating name of MSD’s animal health unit officially
-                changes to MSD Animal Health in 2011.</em
+                >*The operating name of Merck’s animal health unit officially
+                changes to Merck Animal Health in 2011.</em
               >
             </p>
           `
@@ -133,7 +133,7 @@ const timelineSections = [
               Expanded Indication for PANACUR<sup>®</sup> AquaSol
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health receives marketing authorization from the
+              Merck Animal Health receives marketing authorization from the
               European Commission for the expanded indication of PANACUR<sup>®</sup>
               AquaSol to combat three gastrointestinal parasites in chickens.
               PANACUR AquaSol was originally approved in 2013 for the same
@@ -142,7 +142,7 @@ const timelineSections = [
             <p class="timeline-popup-month">June</p>
             <h4 class="timeline-popup-title">Vinovo Partnership</h4>
             <p class="timeline-popup-text">
-              MSD Animal Health announces partnership agreement with Vinovo B.V.
+              Merck Animal Health announces partnership agreement with Vinovo B.V.
               to combine its vaccine portfolio with Vinovo’s novel delivery
               system, making it easier for farmers to deliver poultry vaccines
               more effectively.
@@ -152,7 +152,7 @@ const timelineSections = [
               EXZOLT<sup>®</sup> Wins Breakthrough of the Year
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health receives recognition for EXZOLT<sup>®</sup> as the
+              Merck Animal Health receives recognition for EXZOLT<sup>®</sup> as the
               breakthrough of the year at the 2018 British Free-Range Egg
               Producers Association Conference.
             </p>
@@ -169,7 +169,7 @@ const timelineSections = [
               Rapid Genomics Exclusive Agreement
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health collaborates with Rapid Genomics for exclusive
+              Merck Animal Health collaborates with Rapid Genomics for exclusive
               rights to the company’s vaccination verification tool, Viral
               Flex-Seq<sup>®</sup>, to use in combination with Innovax<sup>®</sup> vaccines, to
               optimize and enhance disease outbreak management in poultry.
@@ -177,7 +177,7 @@ const timelineSections = [
             <p class="timeline-popup-month">April</p>
             <h4 class="timeline-popup-title">Acquisition of Antelliq</h4>
             <p class="timeline-popup-text">
-              MSD Animal Health acquires Antelliq Corporation and becomes the
+              Merck Animal Health acquires Antelliq Corporation and becomes the
               global leader in animal health digital tracking, traceability and
               monitoring technology for livestock and companion animals.
             </p>
@@ -194,7 +194,7 @@ const timelineSections = [
               Introduction of Innoject Pro
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health introduces the Innoject Pro, a subcutaneous
+              Merck Animal Health introduces the Innoject Pro, a subcutaneous
               chick vaccination technology that provides increased accuracy of
               injection and greater sustainability during the vaccination
               process, reducing stress to chicks and improving operator safety.
@@ -202,7 +202,7 @@ const timelineSections = [
             <p class="timeline-popup-month">August</p>
             <h4 class="timeline-popup-title">IdentiGEN Acquisition</h4>
             <p class="timeline-popup-text">
-              MSD Animal Health acquires IdentiGEN, a leader in DNA-based animal
+              Merck Animal Health acquires IdentiGEN, a leader in DNA-based animal
               traceability solutions for livestock and aquaculture that combines
               species’ unique DNA and data analytics to accurately and precisely
               trace poultry, beef, seafood and pork that is verifiable from farm
@@ -229,7 +229,7 @@ const timelineSections = [
               Acquisition of Poultry Sense Limited
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health completes the acquisition of Poultry Sense
+              Merck Animal Health completes the acquisition of Poultry Sense
               Limited, broadening its portfolio to enhance health and
               environmental monitoring technology to the poultry industry.
             </p>
@@ -238,7 +238,7 @@ const timelineSections = [
               Best New Food Animal Product Award Win
             </h4>
             <p class="timeline-popup-text">
-              MSD Animal Health is officially presented with the 2020 Best New
+              Merck Animal Health is officially presented with the 2020 Best New
               Food Animal Product Award for NOBILIS<sup>®</sup> SALENVAC<sup>®</sup> ETC for poultry,
               an inactivated, intramuscular, two-dose trivalent Salmonella
               vaccine.
